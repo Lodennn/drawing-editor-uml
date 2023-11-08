@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:42:14.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="viagq7OTjD2Oa-oSx8gI" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T00:42:24.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uMPsaSfT25fl2Fncb4FJ" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1646" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,10 +143,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxfbXOvgFi9pX_aIyeBM-31" value="Deposit Slot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="955" y="760" width="140" height="52" as="geometry" />
+          <mxGeometry x="955" y="780" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lxfbXOvgFi9pX_aIyeBM-32" value="Cash Slot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1145" y="760" width="140" height="52" as="geometry" />
+          <mxGeometry x="1145" y="780" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lxfbXOvgFi9pX_aIyeBM-33" value="Cancel Key" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="760" width="140" height="52" as="geometry" />
